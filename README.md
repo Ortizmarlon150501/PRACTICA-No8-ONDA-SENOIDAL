@@ -23,32 +23,70 @@ Objetivos Especifico
 
 # MARCO TEORICO
 
+# MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/84585835/132267090-7efd9734-a211-4584-b582-aa7076f562df.png)
+
 
 # PROCEDIMIENTO
 
+Implemente el circuito que se presenta en la figura 7.1
+
+![image](https://user-images.githubusercontent.com/84585835/132267140-da69efc5-1b13-4fa3-a1e3-4667cbaec318.png)
+
+Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.
+
+![image](https://user-images.githubusercontent.com/84585835/132267193-af019587-5fd7-4e10-bcc9-2f0058e5a8cb.png)
+
+
+Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/84585835/132267304-e4a8e6a1-7cd5-4085-9e9f-b55d04413515.png)
 
 # PREGUNTAS 
 
 
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+Responda las siguientes preguntas:
 
-• El comportamiento que tiene una bobina en corriente continua o también llamada corriente que no varía con el tiempo a un inductor, este se comporta como un corto circuito y dejará pasar la corriente a través de ella sin ninguna oposición.
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-• El comportamiento que tiene un capacitor en corriente continua depende del flujo de electrones se detiene o no, si la corriente deja de circular da el comportamiento al capacitor como un circuito abierto para la corriente continua y no permite el paso de corriente.
+¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+El valor en el que esta posicionado es de 10V
 
-• El comportamiento que tiene una bobina en corriente alterna este se comporta como un circuito abierto y no permite el paso de la corriente a través de ella dando así una oposición.
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-• El comportamiento que tiene un capacitor en corriente alterna es de un circuito cerrado para la corriente alterna y permite el paso de corriente o flujo de electrones
+Las divisiones por cuadro que abarca son de dos cuadros por ciclo ca cuadro en 200μs
 
-3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+¿En qué valor está posicionada la perilla TIME/DIV?
 
-Lo creo que ocurriría es que los valores de el voltaje y la corriente varían dependiendo los valores que se tienen en cada unos de estos elementos con valores distintos y ver el comportamiento.
+El valor en el que está posicionado es de 200μs 
 
-4.- ¿Qué son los valores eficaces de voltaje y corriente?
+7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+del osciloscopio?
 
-Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
+Amplitud de voltaje:  6.767(V)
+
+Periodo: 0.4(ms) o 0.0004(s)
+
+7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.
+
+f: 2500(Hz)
+
+ω: 15707.96(rad/s)
+
+7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+
+![image](https://user-images.githubusercontent.com/84585835/132267429-ef391c86-f95f-41a7-9344-d35ebfc6c4fa.png)
+
+El voltaje de salida en la RL es de 4.86V
+
+7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+¿Coinciden? ¿Por qué?
+
 
 # VIDEO
 https://youtu.be/sCqdVm0Wkpk
