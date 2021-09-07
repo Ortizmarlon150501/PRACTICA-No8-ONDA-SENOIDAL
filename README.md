@@ -23,6 +23,10 @@ Objetivos Especifico
 
 # MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/84587118/132276880-4a90d88c-f538-4cad-bf6e-7d5b63a46260.png)
+
+
+
 # MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/84585835/132267090-7efd9734-a211-4584-b582-aa7076f562df.png)
