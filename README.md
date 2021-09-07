@@ -95,7 +95,7 @@ El voltaje de salida en la RL es de 4.86V
 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? ¿Por qué?
 
-No concide porque el que se obtuvo en punto 7.5.5 es referente a la aplitud de a onda que genera el circuito y a diferencia del voltaje del punto 7.5.7 es refernte a un voltaje de salida de un elelemento en ete caso es de la recistencia RL.
+No concide porque el que se obtuvo en punto 7.5.5 es referente a la aplitud de a onda que genera el circuito y a diferencia del voltaje del punto 7.5.7 es referente a un voltaje de salida de un elelemento en ete caso es de la resistencia RL.
 
 # VIDEO
 https://youtu.be/sCqdVm0Wkpk
