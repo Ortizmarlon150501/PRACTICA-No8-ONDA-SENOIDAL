@@ -1,7 +1,5 @@
 # PRACTICA-No8-ONDA-SENOIDAL
 
-LABORATORIO No7 INDUCTOR Y CONDENSADOR
-
 
 # OBJETIVO 
 
@@ -60,7 +58,7 @@ Responda las siguientes preguntas:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-Tiene aproximadamente 0.6 cuadritos .
+Tiene aproximadamente 0.6 divisiones para llegara a un cuadro que abarca la aplitud pico.
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
@@ -96,6 +94,8 @@ El voltaje de salida en la RL es de 4.86V
 
 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? ¿Por qué?
+
+No concide porque el que se obtuvo en punto 7.5.5 es referente a la aplitud de a onda que genera el circuito y a diferencia del voltaje del punto 7.5.7 es refernte a un voltaje de salida de un elelemento en ete caso es de la recistencia RL.
 
 # VIDEO
 https://youtu.be/sCqdVm0Wkpk
