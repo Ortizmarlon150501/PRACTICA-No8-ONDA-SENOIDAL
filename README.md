@@ -60,7 +60,7 @@ Responda las siguientes preguntas:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-Tiene aproximadamente 1.3  divisiones  por cuadrito.
+Tiene aproximadamente 0.6 cuadritos .
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
