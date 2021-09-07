@@ -97,6 +97,7 @@ El voltaje de salida en la RL es de 4.86V
 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? ¿Por qué?
 
+Los resultados medidos no son iguales ya que en el item 7.5.5 tenemos un  voltaje de 6.7, en el item 7.5.7 nuestro voltaje de salida es de 4.86 lo  nos da a entender que los resultados no son los mismos
 
 # VIDEO
 https://youtu.be/sCqdVm0Wkpk
