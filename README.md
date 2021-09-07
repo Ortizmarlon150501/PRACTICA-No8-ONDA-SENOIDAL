@@ -7,19 +7,20 @@ LABORATORIO No7 INDUCTOR Y CONDENSADOR
 
 Objetivo General
 
-Desarrollar experimentalmente las curvas de carga y descarga de condensadores y de inductores en función de la corriente y el voltaje, estableciendo bases teóricas y experimentales para el desarrollo de circuitos con corriente alterna con la medición y la tabulación de todos los datos posibles.
+Determinar por medio del osciloscopio la amplitud, longitud entre otras características de ondas senoidales para potenciar los conocimientos aprendidos en la clase teórica, con el fin de que sean aplicados en el planteamiento y desarrollo de enunciados propuestos en el presente taller.  
 
 Objetivos Especifico
 
-• Establecer diferencias y similitudes entre circuitos con corriente continua y corriente alterna.
+•	Identificar tipos de ondas en el osciloscopio.
 
-• Identificar el comportamiento de la bobina y el capacitor en circuitos DC.
+•	Reproducir en Proteus la onda medida de forma física en el osciloscopio y generar los mismos parámetros de Hz y Voltaje. (en algunas hondas en Proteus no alcanza su rango a medir el voltaje necesario) 
 
-• Identificar el comportamiento de la bobina y el capacitor en circuitos AC.
+•	Comparar datos teóricos con datos prácticos.
 
-• Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+•	Interpretar e identificar el manejo del osciloscopio.
 
-• Familiarizarse con el uso de instrumentos y sus funcionamientos por medio de los simuladores.
+•	Identificar el proceso para la toma de mediciones, tal como el voltaje del circuito.
+
 
 # MARCO TEORICO
 
@@ -101,13 +102,14 @@ https://youtu.be/sCqdVm0Wkpk
 
 # CONCLUSION
 
-• Un osciloscopio es un instrumento de medición para la electrónica. Representa una gráfica de amplitud en el eje vertical y tiempo en el eje horizontal. Es muy usado por estudiantes, diseñadores, ingenieros en el campo de la electrónica. Frecuentemente se complementa con un multímetro, una fuente de alimentación y un generador de funciones o arbitrario.
+•	Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
 
-• Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. La onda senoidal se puede extraer de la circulación de un punto sobre un círculo de 360º. Un ciclo de la señal senoidal abarca los 360º.
+•	Un ciclo completo de una onda seno puede ser representado por la rotación de 360° de un fasor.
 
-• Para el calculo del valor pico en el osciloscopio presentado en el simulador es necesario tener conocimiento de como posicionar las perillas del osciloscopio y tener en mente la operación que se debe efectuar según el numero de casillas en la grafica .
+•	El valor instantáneo de la onda seno en cualquier punto es igual a la distancia vertical desde la punta del fasor hasta el eje horizontal.
 
-• Mientras mayor sea la frecuencia la impedancia capacitiva será menor, mientras la impedancia inductiva será mayor
+•	Es indispensable tener un conocimiento previo de corriente alterna y sus magnitudes rms, con el fin de estar preparado para resolver cualquier problema en toma de mediciones con dichos valores
+
 
 # BIOGRAFIA
 
