@@ -34,6 +34,9 @@ Implemente el circuito que se presenta en la figura 7.1
 
 ![image](https://user-images.githubusercontent.com/84585835/132267140-da69efc5-1b13-4fa3-a1e3-4667cbaec318.png)
 
+![image](https://user-images.githubusercontent.com/84412132/132275942-ae53be6a-a827-4c6a-a34f-7df049a99042.png)
+
+
 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 
